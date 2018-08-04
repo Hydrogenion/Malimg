@@ -5,9 +5,9 @@ Malimg dataset consists of 9,339 malware samples from 25 different malware famil
 
 数据集内恶意软件说明：
 The malware in the dataset:
-!()[https://blog-1253353217.cos.ap-chengdu.myqcloud.com/blog15%20malimg0802/malimg0802_5.png]
+![](https://blog-1253353217.cos.ap-chengdu.myqcloud.com/blog15%20malimg0802/malimg0802_5.png)
 
 恶意软件对应图像
 The malware img in the dataset:
-!()[https://blog-1253353217.cos.ap-chengdu.myqcloud.com/blog15%20malimg0802/malimg0802_6.png]
+![](https://blog-1253353217.cos.ap-chengdu.myqcloud.com/blog15%20malimg0802/malimg0802_6.png)
 
